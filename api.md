@@ -18,11 +18,8 @@ This functionality lists down the latest movie watched by the user.
     
             {
                 "adult": false,
-                "backdrop_path": null,
-                "belongs_to_collection": null,
                 "budget": 0,
                 "genres": [],
-                "homepage": null,
                 "id": 133255,
                 "imdb_id": "tt0031406",
                 "original_title": "Harlem Rides the Range",
@@ -43,7 +40,6 @@ This functionality lists down the latest movie watched by the user.
                 ],
                 "release_date": "1939-02-01",
                 "revenue": 0,
-                "runtime": null,
                 "spoken_languages": [
                     {
                         "iso_639_1": "en",
