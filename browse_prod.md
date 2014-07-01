@@ -7,7 +7,7 @@ API to manage product resource
 + Parameters
     + partNumber (required,string,`15020543`) ... Partnumber of the item to be displayed
 
-### Get product by PartNumber [GET]
+### By PartNumber [GET]
 This functioanlity fetches the item by Part number.
 
 + Response 200 (application/json;charset=UTF-8)
