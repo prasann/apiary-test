@@ -13,7 +13,7 @@ API to access Movie resource.
 ### Get latest movie [GET]
 This functionality lists down the latest movie watched by the user.
 
-+ Response 200 (application/json;charset=UTF-8)
++ Response 200 (application/json)
     +  Body
     
             {
