@@ -21,7 +21,7 @@ This functionality lists down the latest movie watched by the user.
                 "budget": 0,
                 "genres": [],
                 "id": 133255,
-                "imdb_id": "tt0031406",
+                "imdb_id": "tt003",
                 "original_title": "Harlem Rides the Range",
                 "popularity": 0.0,
                 "production_companies": [
