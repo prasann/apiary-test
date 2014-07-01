@@ -23,9 +23,7 @@ This functionality lists down the latest movie watched by the user.
                 "id": 133255,
                 "imdb_id": "tt0031406",
                 "original_title": "Harlem Rides the Range",
-                "overview": null,
                 "popularity": 0.0,
-                "poster_path": null,
                 "production_companies": [
                     {
                         "name": "Hollywood Pictures Corporation",
@@ -46,7 +44,6 @@ This functionality lists down the latest movie watched by the user.
                         "name": "English"
                     }
                 ],
-                "tagline": null,
                 "title": "Harlem Rides the Range",
                 "vote_average": 0.0,
                 "vote_count": 0
