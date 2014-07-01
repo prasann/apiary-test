@@ -3,7 +3,7 @@ FORMAT: 1A
 # Products API
 API to manage product resource
 
-##  Get product [/by_itemid?id=/{partNumber}&alt=json]
+##  Get product [/by_itemid?id={partNumber}&alt=json]
 + Parameters
     + partNumber (required,string,`15020543`) ... Partnumber of the item to be displayed
 
