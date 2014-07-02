@@ -10,7 +10,7 @@ API to manage product resource
 ### By PartNumber [GET]
 This functioanlity fetches the item by Part number.
 
-+ Response 200 (application/xml;charset=UTF-8)
++ Response 200 (application/json;charset=UTF-8)
     +  Body
     
             {
