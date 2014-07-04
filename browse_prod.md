@@ -28,7 +28,7 @@ This functioanlity fetches the item by Part number.
                 "manufacturer" : "Hansae Fashion Worldwide",
                 "purchasingChannel" : "Sold Online + in Stores",
                 "purchasingChannelCode" : "0",
-                "inventoryCode" : "0",
+                "in" : "0",
                 "inventoryStatus" : "in stock",
                 "inventoryAvailabilityMessage" : "In stock",
                 "SFSEnabled" : "N",
